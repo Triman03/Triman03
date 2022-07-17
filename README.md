@@ -2,7 +2,7 @@
 - 👀 I’m interested in mobile development
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on mobile development
-- 📫 How to reach me (whhatsapp: +2348101650800)
+- 📫 How to reach me (whatsapp: +2348101650800)
 
 <!---
 Triman03/Triman03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
