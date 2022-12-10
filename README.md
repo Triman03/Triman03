@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Triman03
-- 👀 I’m interested in mobile development
-- 🌱 I’m currently learning flutter
+- 👀 I’m a mobile developer
 - 💞️ I’m looking to collaborate on mobile development
 - 📫 How to reach me (whatsapp: +2348101650800)
 
