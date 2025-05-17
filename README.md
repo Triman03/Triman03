@@ -1,5 +1,5 @@
 - 👋 Hello there! 
-   My name is Oyedepo Samuel but you can call me Trinity. i am a passionate Mobile Developer with a 
+   My name is Oyedepo Samuel but you can call me Trinity. I am a passionate Mobile Developer with a 
    love for crafting user-friendly apps. 
 
 
